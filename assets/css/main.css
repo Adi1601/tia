@@ -3783,3 +3783,31 @@ input, select, textarea {
 			}
 
 		}
+
+
+		#question-form {
+			width: 50%;
+			background-color: #fff;
+			padding: 20px;
+			border-radius: 5px;
+			text-align: center;
+		  }
+		  
+		  #question {
+			text-align: left;
+			font-size: 32px;
+			font-weight: bold;
+			margin-bottom: 20px;
+		  }
+		  
+		  #options {
+			text-align: left;
+		  }
+		  
+		  input[type="radio"] {
+			margin-right: 24px;
+		  }
+		  
+		  label {
+			font-size: 24px;
+		  }

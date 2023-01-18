@@ -1,0 +1,58 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "text": "Do you have pain?",
+        "options": [
+          {
+            "value": "yes",
+            "text": "Yes"
+          },
+          {
+            "value": "no",
+            "text": "No"
+          }
+        ],
+        "nextQuestionId": 2
+      },
+      {
+        "id": 2,
+        "text": "Where do you have pain?",
+        "options": [
+          {
+            "value": "head",
+            "text": "Head"
+          },
+          {
+            "value": "stomach",
+            "text": "Stomach"
+          },
+          {
+            "value": "back",
+            "text": "Back"
+          }
+        ],
+        "nextQuestionId": 3
+      },
+      {
+        "id": 3,
+        "text": "What's your age?",
+        "options": [
+          {
+            "value": "20-30",
+            "text": "20-30"
+          },
+          {
+            "value": "30-40",
+            "text": "30-40"
+          },
+          {
+            "value": "40-50",
+            "text": "40-50"
+          }
+        ],
+        "nextQuestionId": null
+      }
+    ]
+  }
+  
